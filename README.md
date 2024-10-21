@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://gifer.com/en/7jtv)
+[![MasterHead](https://media.tenor.com/e5USMuwIppcAAAAi/masonic-symbol-freemasons.gif)])
 <h1 align="center">Hi 👋, I'm Fouad Shmait</h1>
 <h3 align="center">A passionate developer from Lebanon</h3>
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/FNfcWhlz0GTkzcnZWh")
+(img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/coding-gif-coding-discover-share-gifs--858428378991517366/")
 
 - 🔭 I’m currently working on **POS System**
 
