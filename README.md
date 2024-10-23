@@ -1,7 +1,7 @@
 [![MasterHead]([[https://1.bp.blogspot.com/-7A4WynwLsM...](https://cdn.textures4photoshop.com/tex/thumbs/computer-screen-code-glitch-animation-gif-background-free-thumb57.gif)])
 <h1 align="center">Hi 👋, I'm Fouad Shmait</h1>
 <h3 align="center">A passionate developer from Lebanon</h3>
-<(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/11103958-Creative-Coding-3/attachments/2703363?mode=media")>
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/11103958-Creative-Coding-3/attachments/2703363?mode=media">
 
 - 🔭 I’m currently working on **POS System**
 
