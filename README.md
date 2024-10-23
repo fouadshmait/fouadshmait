@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/e5USMuwIppcAAAAi/masonic-symbol-freemasons.gif)])
+[![MasterHead](https://giphy.com/explore/altoritimo-code?sort=relevant)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Fouad Shmait</h1>
 <h3 align="center">A passionate developer from Lebanon</h3>
 (img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/coding-gif-coding-discover-share-gifs--858428378991517366/")
